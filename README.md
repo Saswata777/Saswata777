@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saswata Maitra</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="Github background" width="300" height="250" align="right">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saswata777&label=Profile%20views&color=0e75b6&style=flat" alt="saswata777" /> </p>
 
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saswata777" alt="saswata777" /></a> </p> 
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -15,7 +13,9 @@
 - 📫 How to reach me **saswata.maitra07@gmail.com**
 
 - ⚡ Fun fact **Programmers don't die; they just go offline.**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saswata777&label=Profile%20views&color=0e75b6&style=flat" alt="saswata777" /> </p>
 
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saswata777" alt="saswata777" /></a> </p> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saswata maitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saswata maitra" height="30" width="40" /></a>
