@@ -1,4 +1,4 @@
-![Header](./github-header-image (2).png)
+![Header](./github-header-image-banner.png)
 <h1 align="center">Hi 👋, I'm Saswata Maitra</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="Github background" width="300" height="250" align="right">
