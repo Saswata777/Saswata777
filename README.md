@@ -30,5 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saswata777&show_icons=true&locale=en" alt="saswata777" /></p>
 
-[![An image of @saswata777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saswata777)](https://holopin.io/@saswata777)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saswata777&" alt="saswata777" /></p>
+[![An image of @saswata777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saswata777)](https://holopin.io/@saswata777)
+<p><p/>
