@@ -4,7 +4,7 @@
 <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="Github background" width="300" height="250" align="right">
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning  **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://saswata-portfolio.onrender.com/](https://saswata-portfolio.onrender.com/)
 
