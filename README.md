@@ -1,12 +1,12 @@
 ![Header](./github-header-banner.png)   
 <h1 align="center">Hi 👋, I'm Saswata Maitra</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate MERN developer from India.</h3>
 <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="Github background" width="300" height="250" align="right">
 
 
 - 🌱 I’m currently learning  **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://saswata-portfolio.onrender.com/](https://saswata-portfolio.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://portfolio2-6y5e.onrender.com/](https://portfolio2-6y5e.onrender.com/)
 
 - 💬 Ask me about **React,Vanilla JS,Node Js**
 
