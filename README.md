@@ -35,9 +35,9 @@
 <a href="https://instagram.com/saswata_mac" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saswata_mac" height="30" width="40" />
 </a>
-<a href="https://www.leetcode.com/saswata_leet" target="blank">
+<!-- <a href="https://www.leetcode.com/saswata_leet" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saswata_leet" height="30" width="40" />
-</a>
+</a> -->
 </p>
 
 ---
